@@ -1,0 +1,7 @@
+C:\Users\Zane\source\repos\Demo RTa\Demo RTa\bin\Debug\Demo RTa.exe.config
+C:\Users\Zane\source\repos\Demo RTa\Demo RTa\bin\Debug\Demo RTa.exe
+C:\Users\Zane\source\repos\Demo RTa\Demo RTa\bin\Debug\Demo RTa.pdb
+C:\Users\Zane\source\repos\Demo RTa\Demo RTa\obj\Debug\Demo RTa.csprojAssemblyReference.cache
+C:\Users\Zane\source\repos\Demo RTa\Demo RTa\obj\Debug\Demo RTa.csproj.CoreCompileInputs.cache
+C:\Users\Zane\source\repos\Demo RTa\Demo RTa\obj\Debug\Demo RTa.exe
+C:\Users\Zane\source\repos\Demo RTa\Demo RTa\obj\Debug\Demo RTa.pdb
